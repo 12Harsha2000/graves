@@ -249,3 +249,14 @@ h1{
     margin-left: auto;
     color: black;
   }
+
+  #num{
+    margin-top: 20px;
+    margin-right: 49px;
+   }
+
+ .coloring-1{
+      color: #343A40;
+      font-size: 17px;
+      font-weight: 700;
+   }

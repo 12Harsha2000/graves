@@ -17,28 +17,23 @@ body{
     height: 32px;
     width: 32px;
 }
-.pn{
-    font-size: 12px;
+.pn1{
+    font-size: 13px;
     font-family: roboto;
     margin-left: 12px;
     margin-bottom: 0;
     margin-top: 12px;
+    font-weight: 400;
        }
-.mp{
+.mp1{
     font-size: 11px;
     font-weight: 400;
     opacity: 0.5;
     font-family: roboto;    
     margin-top: 0;
-    margin-left: 12px;
-    }
-  .vector{
-    position: absolute;
-    width: 16px;
-    height: 16px;
-    left: 1400px;
-    top: 22px;
-  }  
+    margin-left: 10px;
+  }
+ 
 ul {
     display: flex;
     list-style-type: none;    
@@ -93,6 +88,27 @@ table {
     background-color: #343A40;
 }
    
+.left {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-right: auto;
+}
+
+.middle {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+
+}
+
+.right {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  margin-left: auto;
+}
+
 
 h2{
     font-size: 16px;
